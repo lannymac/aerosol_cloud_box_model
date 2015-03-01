@@ -8,3 +8,4 @@ main.o: main.cpp
 
 parcel.o: parcel.cpp
 	g++ -c parcel.cpp
+
